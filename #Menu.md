@@ -5,9 +5,10 @@
 ## 📂 美食分類
 - [早餐類](breakfast.md)
 - [午餐類](lunch.md)
+- [晚餐類](dinner.md)
 - [飲料類](drinks.md)
 - [宵夜類](late_night.md)
 
 ## ✍️ 編輯規範
 1. 新增店家請包含：**店家名稱**、**推薦餐點**、**價格區間**、**社員簡評**。
-2. 每個人請開立自己的 Branch 進行修改，完成後發 PR (Pull Request)。
+2. 每個人請開立自己的 Branch 進行修改。
